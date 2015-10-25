@@ -10,9 +10,32 @@ Vitrum = glass (hourglass)
 
 ## Functionele specificaties
 * One Page Webapplication
-* Worldbank API 
-* ...
-
+	* Bookmark routes
+	* of een webapplicatie bestaande uit verschillende pagina's
+* Preloaders/Loaders
+	* Om de app in te laden
+	* Tijdens het inladen van JSON(P)
+	* Lokale data bestanden
+* De meeste inhoud wordt beheerd in data bastanden en dynamisch ingeladen
+* Adaptive images, video's en sounds
+* Google Maps integratie of gelijkaardig
+	* Custom look-and-feel
+* GEO-location
+	* Toon de locatie van de gebruiker op een Map
+	* Hou rekening met deze locatie in andere onderdelen van deze app
+* Social Media Bookmarking (Open Graph)
+* Animaties via SVG en/of Canvas
+* Lokaal caching van data en bronbestanden (cache manifest)
+* Gebruiker ervaart een interactief webapplicatie
+* Gebruiker kan favoriete data lokaal bewaren
+* Gebruiker kan de webapplicatie bookmarken in browser, bureaublad en als native app in het overzicht
+* Automation verplicht!
+	* Componenten worden via Bower toegevoegd in de components folder van de app folder
+	* SASS bestanden worden automatisch omgezet in corresponderende CSS-bestanden
+	* CSS-bestanden worden met elkaar verbonden in één bestand en geminified
+	* De JS code wordt automatisch nagekeken op syntax fouten JS-bestanden worden met elkaar verbonden in één bestand en geminified
+	* De dist-folder wordt automatisch aangevuld met bestanden en folders via Grunt of Gulp
+	* Screenshots van de verschillende breekpunten worden automatisch uitgevoerd via Phantom, Casper of andere bibliotheken
 ##Technische specificaties
 
 ##Persona's (+ scenario): Gebruiker (User) (3x)
