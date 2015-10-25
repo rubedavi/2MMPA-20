@@ -40,9 +40,9 @@ Vitrum = glass (hourglass)
 
 ##Persona's (+ scenario): Gebruiker (User) (3x)
 ![Persona](Images/Persona.jpg "Persona's")
-##Indeëenborden + keuze uit ideëenborden resulterend in een Moodboard
+##Ideëenborden + keuze uit ideëenborden resulterend in een Moodboard
 ####2x groep van 2 studenten + finaal 1 resulterende Moodboard
-
+![Ideebord](Images/Ideebord.jpg "Ideebord")
 ##Sitemap
 
 ##Wireframes
