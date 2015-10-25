@@ -16,7 +16,7 @@ Vitrum = glass (hourglass)
 ##Technische specificaties
 
 ##Persona's (+ scenario): Gebruiker (User) (3x)
-![Persona](images/Persona.jpg "Persona's")
+![Persona](Images/Persona.jpg "Persona's")
 ##Indeëenborden + keuze uit ideëenborden resulterend in een Moodboard
 ####2x groep van 2 studenten + finaal 1 resulterende Moodboard
 
