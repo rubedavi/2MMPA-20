@@ -43,6 +43,7 @@ Vitrum = glass (hourglass)
 ##Ideëenborden + keuze uit ideëenborden resulterend in een Moodboard
 ####2x groep van 2 studenten + finaal 1 resulterende Moodboard
 ![Ideebord](Images/Ideebord.jpg "Ideebord")
+![Ideebord](Images/ideeenbord.jpg "Ideebord")
 ##Sitemap
 ![Sitemap](Images/Sitemap.jpg "Sitemap")
 ##Wireframes
